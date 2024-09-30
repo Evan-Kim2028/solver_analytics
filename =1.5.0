@@ -1,0 +1,6 @@
+Added vegafusion[embed]>=1.6.9 as regular dependency
+Reusing already existing virtualenv
+Generating production lockfile: /home/evan/Documents/solver_analytics/requirements.lock
+Generating dev lockfile: /home/evan/Documents/solver_analytics/requirements-dev.lock
+Installing dependencies
+Done!
